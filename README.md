@@ -1,3 +1,3 @@
 # UserApi-views
 
-## Use ` bash npm i` ## to run
+## Use ` npm i` to run
